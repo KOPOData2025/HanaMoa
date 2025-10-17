@@ -1,4 +1,4 @@
-# [💚 하나모아 - 소액으로 금·은·외환까지 투자할 수 있는 자산 플랫폼](https://www.hanamoa.co.kr/)
+# [💚 하나모아 - 소액으로 금·은·외환까지 투자할 수 있는 자산 플랫폼](https://www.hanamoa.co.kr/home)
 
 ![Example Image](./이미지/img01.svg)
 
