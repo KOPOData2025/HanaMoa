@@ -67,7 +67,7 @@ Firebase Cloud Messaging을 활용한 실시간 푸시 알림
 ||Framework&Tool|React Native, Next.js, Spring Boot, JSP, FastAPI, Jetpack Compose|
 ||Database|Oracle, MySQL, Redis|
 ||ETC|Git, AWS, Docker, Firebase, Scikit-Learn, Pandas, Figma|
-|**수상**|2024 제 4회 소방 안전 빅데이터 활용 및 분석 대회 (우수상)|소방청, 한국 보험 협회, 소방안전 빅데이터 플랫폼(2024.11.11)|
+|**수상**|제 4회 소방 안전 빅데이터 활용 및 분석 대회 (우수상)|소방청, 한국 보험 협회, 소방안전 빅데이터 플랫폼(2024.11.11)|
 ||34기 SOPT 모바일/웹 어플리케이션 해커톤 APPJAM (우수상)|대학교 연합 동아리 SOPT(2024.07.27)|
 ||4기 쿠잇 프로젝트 데모데이 (수상)|건국대학교 교내 동아리 KUIT(2025.02.21)|
 |**교육**|하나금융티아이 채용연계형 교육|2025.03 ~ 2025.10|
